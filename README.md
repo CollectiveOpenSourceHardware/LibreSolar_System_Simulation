@@ -6,9 +6,9 @@ Modelling and simulation of LibreSolar components and needed external components
 ![Simulation_System Overview](00_Documentation_Pictures/LS_SystemOverview.png)
 
 #### Environment Generator:
-function: Generates system parameter which influence the LibreSolar Box Components out of given values from the location profile
 - Location Profile (city/geo_position, season, daytime)
 - irradience [W/m^2], temperature [celsius]
+function: Generates system parameter which influence the LibreSolar Box Components out of given values from the location profile
 
 ##### Solar:
 - irradience [W/m^2]
