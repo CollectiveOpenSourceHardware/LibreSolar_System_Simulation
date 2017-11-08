@@ -30,7 +30,7 @@ function: Generates system parameter which influence the LibreSolar Box Componen
 - voltage [V], current [I]
 - //open question: does the Load System effects with V or I the Libre Solar System
 
-LibreSolar (electronics):
+##### LibreSolar (electronics):
 - solar_voltage [V], solar_current [I]
 - output - voltage[V], current[I],
 - Box Temp. [celsius]
@@ -56,7 +56,7 @@ Communication Parameters from Higher Control Level
 - measurement component (scaled U, I) -> Output2
 
 ##### Event Generator:
-- system states and 
+- system states and discrete Events
 
 ## Hardware Model
 ![Simulation_Hardware_Model](00_Documentation_Pictures/LS_HWModel.png)
